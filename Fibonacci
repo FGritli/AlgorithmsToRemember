@@ -1,8 +1,9 @@
 public class FibonacciNumbers {
-    //Use of recursion, good idea but slow
-    //By drawing the Tree it becomes apparent that the computation is very
-    //repetitive T(n)>F(n)
-    private static int fib(int n){
+    /*  Use of recursion, good idea but slow
+        By drawing the Tree it becomes apparent that the computation is very
+        repetitive T(n)>F(n) */
+   
+   private static int fib(int n){
         if (n <=1)
             return n;
             else
