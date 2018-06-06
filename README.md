@@ -10,6 +10,8 @@ There are numbers of steps used to produce a functional and efficient algorithms
 
 ・Find an algorithm to solve it. Always ask if it is fast enough? How will it impact the memory?
 
-・Find a way to address the problem. ・Iterate until satisfied.
+・Find a way to address the problem. 
+
+・Iterate until satisfied.
 
 Most of the Algorithms and exercises I will posting here could be used as a study guide before an interview or for computer science  exams or may be for fun.
