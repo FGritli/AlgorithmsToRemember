@@ -1,0 +1,15 @@
+
+                          //String Reverse directly without turning it to an array
+
+  /* It seems that this question is used in one form or another in lots of interviews 
+  So we create a function that takes a string as an argument. 
+  A for loop is used to iterate  and finally we print the answer using charAt()built in function*/
+    
+    public static void noArrayReverseString(String str) {
+
+        String rev ="";
+        for (int i = str.length()-1; i >= 0; i--) {
+            System.out.print(rev + str.charAt(i));
+
+        }
+    }
