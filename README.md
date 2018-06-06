@@ -1,6 +1,6 @@
 # AlgorithmsToRemember
 
-   <em>"Algorithm is a word used by programmers when they don't want to explain what they did!"
+   <em>"Algorithm is a word used by programmers when they don't want to explain what they did!"</em>
 
 Proof is a method of establishing truth, the precise meaning depends heavily on the field of study, hence it differs from one system to another. In computer science algorithm is a number of steps or a process put to achieve a specific and precise result.<hr>
 
