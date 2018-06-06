@@ -14,4 +14,4 @@ There are numbers of steps used to produce a functional and efficient algorithms
 
 ・Iterate until satisfied.
 
-Most of the Algorithms and exercises I will posting here could be used as a study guide before an interview or for computer science  exams or may be for fun.
+Most of the Algorithms and exercises I will be posting here could be used as a study guide before an interview or for computer science  exams or may be for fun.
