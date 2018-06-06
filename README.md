@@ -1,12 +1,8 @@
 # AlgorithmsToRemember
-<style>
-   p{
-   color:lightblue;
-   }
-   </style>
+
    <em>"Algorithm is a word used by programmers when they don't want to explain what they did!"
 
-<p>Proof is a method of establishing truth, the precise meaning depends heavily on the field of study, hence it differs from one system to another. In computer science algorithm is a number of steps or a process put to achieve a specific and precise result.<hr>
+Proof is a method of establishing truth, the precise meaning depends heavily on the field of study, hence it differs from one system to another. In computer science algorithm is a number of steps or a process put to achieve a specific and precise result.<hr>
 
 There are numbers of steps used to produce a functional and efficient algorithms
 
@@ -16,4 +12,4 @@ There are numbers of steps used to produce a functional and efficient algorithms
 
 ・Find a way to address the problem. ・Iterate until satisfied.
 
-Most of the Algorithms and exercises I will posting here could be used as a study guide before an interview or for computer science  exams or may be for fun.</p>
+Most of the Algorithms and exercises I will posting here could be used as a study guide before an interview or for computer science  exams or may be for fun.
