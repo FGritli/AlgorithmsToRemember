@@ -1,5 +1,5 @@
 
-                          //String Reverse directly without turning it to an array
+  //String Reverse directly without turning it to an array
 
   /* It seems that this question is used in one form or another in lots of interviews 
   So we create a function that takes a string as an argument. 
