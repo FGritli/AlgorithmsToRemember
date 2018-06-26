@@ -64,9 +64,11 @@ public static void StringReverse(String arr[]){
     }
     
 //String Reverse directly without turning it to an array
-    public static void noArrayReverseString(String str) {
-
-        String rev ="";
+   
+   
+   public static void noArrayReverseString(String str) {
+   
+      String rev ="";
         for (int i = str.length()-1; i >= 0; i--) {
             System.out.print(rev + str.charAt(i));
 
