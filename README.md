@@ -56,3 +56,35 @@ public class FibonacciNumbers {
 
     }
 }
+//Taking a string array and reverse it.
+public static void StringReverse(String arr[]){
+        for (int i = arr.length-1; i>= 0; i--){
+            System.out.print(arr[i]);
+        }
+    }
+    
+//String Reverse directly without turning it to an array
+    public static void noArrayReverseString(String str) {
+
+        String rev ="";
+        for (int i = str.length()-1; i >= 0; i--) {
+            System.out.print(rev + str.charAt(i));
+
+
+        }
+    }
+    //Selection sort Algorithm
+    public static void selctionSortAlgo(int []arr) {
+        int n = arr.length;
+        for (int i = 0; i <= n - 1; i++) {
+            int index = 0;
+            int smallest = arr[i];
+            for (int j = i; j <= n - 1; j++) {
+                smallest = arr[j];
+                index = j;
+            }
+            int temp = arr[i];
+            arr[i] = smallest;
+            arr[index] = temp;
+        }
+    }
